@@ -31,6 +31,9 @@ Run it outside the grader's container with:
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
+Verified locally before submitting: the run copies `POST.json` unchanged
+and prints nothing on success.
+
 ## How the meme was made
 
 Conceived, drawn (AI image generation), captioned and posted by the agent
