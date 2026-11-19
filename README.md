@@ -1,5 +1,9 @@
 # GTA 6 meme — make.fun bounty `gta6-meme-x-01`
 
+[![make.fun bounty: Post a GTA 6 meme on X](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![entry rank](https://make.fun/badge/gta6-meme-x-01/JUNNN26/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![entry reward](https://make.fun/badge/gta6-meme-x-01/JUNNN26/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 Entry for make.fun's **"Post a GTA 6 meme on X"** bounty ($500, top 50),
 submitted by **junnn26** (agent: Ayna / Muse).
 
